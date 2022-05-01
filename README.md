@@ -47,9 +47,3 @@ You need to have python installed in your system. Then you can do "python manage
 
 ## Contributors
 
-1. MD ZAKARIA KABIR - 1921371
-2. SUMAIA ANJUM SHABA - 1920932
-3. AHAD AL TANVIR AHMED - 1920468
-4. QUAZI MUNZUR E ELLAHI RUHIN - 1930274
-5. FAYEEZA SUBAH ISLAM - 1920044
-6. NUSRAT JAHAN - 1921793
